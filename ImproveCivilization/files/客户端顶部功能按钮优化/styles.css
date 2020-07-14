@@ -130,7 +130,7 @@
   left:0px;
   top:0px;
   width:158px;
-  height:91px;
+  height:120px;
   background:inherit;
   background-color:rgba(255, 223, 37, 1);
   border:none;
@@ -145,7 +145,7 @@
   left:1838px;
   top:358px;
   width:158px;
-  height:91px;
+  height:120px;
   display:flex;
 }
 #u3 .text {
@@ -550,13 +550,13 @@
   left:32px;
   top:-5px;
   width:10px;
-  height:25px;
+  height:39px;
 }
 #u16_seg2 {
   border-width:0px;
   position:absolute;
   left:32px;
-  top:10px;
+  top:24px;
   width:23px;
   height:10px;
 }
@@ -564,15 +564,15 @@
   border-width:0px;
   position:absolute;
   left:40px;
-  top:5px;
+  top:19px;
   width:20px;
   height:20px;
 }
 #u16_text {
   border-width:0px;
   position:absolute;
-  left:-15px;
-  top:-8px;
+  left:-13px;
+  top:-3px;
   width:100px;
   word-wrap:break-word;
   text-transform:none;
@@ -582,7 +582,7 @@
   border-width:0px;
   position:absolute;
   left:1917px;
-  top:449px;
+  top:478px;
   width:0px;
   height:0px;
 }
@@ -592,13 +592,13 @@
   left:-5px;
   top:0px;
   width:10px;
-  height:216px;
+  height:187px;
 }
 #u17_seg1 {
   border-width:0px;
   position:absolute;
   left:-642px;
-  top:206px;
+  top:177px;
   width:647px;
   height:10px;
 }
@@ -606,7 +606,7 @@
   border-width:0px;
   position:absolute;
   left:-642px;
-  top:156px;
+  top:127px;
   width:10px;
   height:60px;
 }
@@ -614,7 +614,7 @@
   border-width:0px;
   position:absolute;
   left:-655px;
-  top:156px;
+  top:127px;
   width:23px;
   height:10px;
 }
@@ -622,15 +622,15 @@
   border-width:0px;
   position:absolute;
   left:-660px;
-  top:151px;
+  top:122px;
   width:20px;
   height:20px;
 }
 #u17_text {
   border-width:0px;
   position:absolute;
-  left:-297px;
-  top:203px;
+  left:-312px;
+  top:174px;
   width:100px;
   word-wrap:break-word;
   text-transform:none;
@@ -714,7 +714,7 @@
   border-width:0px;
   position:absolute;
   left:1408px;
-  top:434px;
+  top:462px;
   width:31px;
   height:31px;
   display:flex;
@@ -744,7 +744,7 @@
   border-width:0px;
   position:absolute;
   left:1965px;
-  top:418px;
+  top:447px;
   width:31px;
   height:31px;
   display:flex;
