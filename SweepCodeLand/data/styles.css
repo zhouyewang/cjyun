@@ -67,7 +67,7 @@
   text-align:left;
 }
 ._文本段落 {
-  font-family:'华文仿宋';
+  font-family:'华文仿宋 Regular', '华文仿宋';
   font-weight:400;
   font-style:normal;
   font-size:13px;
