@@ -64,7 +64,16 @@
 }
 .arrow {
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.table_cell {
+}
 .sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
   text-align:left;
 }
 .sticky_4 {
